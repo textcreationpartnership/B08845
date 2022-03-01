@@ -1,0 +1,464 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The court of curiosities, and The cabinet of rarities with the new way of wooing.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08845</idno>
+            <idno type="OCLC"> 80922415</idno>
+            <idno type="STC">Wing C6588</idno>
+            <idno type="STC">ESTC R171564</idno>
+            <idno type="EEBO-CITATION">80922415</idno>
+            <idno type="OCLC">ocm 80922415</idno>
+            <idno type="VID">191850</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08845)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191850)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2892:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The court of curiosities, and The cabinet of rarities with the new way of wooing.</title>
+               </titleStmt>
+               <extent>[24] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby at the Golden Ball in Pye-corner.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"This may be printed, R.P."</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Courtesy --  Early works to 1800.</term>
+               <term>Fortune telling --  Early works to 1800.</term>
+               <term>Cookery --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:191850:1" rendition="simple:additions"/>
+            <p>The Court of Curioſities, And the Cabinet of RARITIES With the New Way Of WOOING.</p>
+            <figure>
+               <figDesc>cupid</figDesc>
+            </figure>
+            <p>This may be Printed, <hi>R. P.</hi>
+            </p>
+            <p>Printed for <hi>P. Brooksby</hi> at the <hi>Golden Ball</hi> in <hi>Pye-corner.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:191850:2"/>
+            <p>The Court of Curioſities, OR, The New way of WOOING: And the Cabinet of RARITIES, <hi>&amp;c.</hi>
+            </p>
+            <p>Containing <hi>Rules</hi> and <hi>Directions,</hi> for the moſt exact and courtly manner of Behaviour to<g ref="char:EOLhyphen"/>wards Superiours, Equals &amp; Inferiours, as how to enter a Room or other place, to pay a Reſpect, or make a Complemental addreſs with ſutable expreſſions upon thoſe and ſuch like occaſions; indifferent to either Sex, <hi>&amp;c.</hi>
+            </p>
+            <p>AS ALSO, The Art of making Love, and how to know when one is beloved and the means in that Caſe to obtain ones deſire. Set out with Pleaſant New Songs, Complemental Expreſſions, Letters &amp; other pretty conceits.</p>
+            <p>To which are added choice <hi>Rules</hi> and <hi>Di<g ref="char:EOLhyphen"/>rections</hi> for Carving Fleſh and Fowl; As alſo to or<g ref="char:EOLhyphen"/>der Fiſh and to know the beſt part of any of them.</p>
+            <p>Together, with the Signification of <hi>Moles;</hi> Interpretation of <hi>Dreams,</hi> and choice Rules of <hi>Pal<g ref="char:EOLhyphen"/>meſtry,</hi> or the way of knowing good or bad Fortune in man or Woman, by the Lines, &amp; marks of the Hand, <hi>&amp;c.</hi>
+            </p>
+            <p>This may be Printed <hi>R. P.</hi>
+            </p>
+            <p>Printed for <hi>P. Brooksby.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:191850:2"/>
+            <head>THE Court of CURIOSITIES, OR, The Cabinet of Rarities. With the New Way of Wooing, <hi>&amp;c.</hi>
+            </head>
+            <div type="introduction">
+               <head>The Introduction.</head>
+               <p>AS Knowledge and <g ref="char:V">Ʋ</g>nderſtanding are the greateſt Ornaments: In like manner ought they to be prized and improved to advantage, nor can they be attained to, without care and diligence; and in this Caſe, divers things are to be conſidered: but not to go from the inten<g ref="char:EOLhyphen"/>ded Subject. I ſhall proceed to lay down ſuch choice Rules and Inſtructions, as will be wonderful uſeful and profitable to Men or Women; but eſpecially to the youngeſt ſort, and firſt as to Carriage and decent Behaviour with Expreſſions ſuita<g ref="char:EOLhyphen"/>ble on ſundry Occaſions.</p>
+            </div>
+            <div n="1" type="chapter">
+               <pb facs="tcp:191850:3"/>
+               <head>
+                  <hi>CHAP. I.</hi> How a Youngman or a Maid ought to behave themſelves in entring a Room or others Place to pay reſpects to their Superiours, <hi>&amp;c.</hi>
+               </head>
+               <p>AS good Breeding greatly ſets of the Per<g ref="char:EOLhyphen"/>ſon of a Youngman or a Maid; ſo it ought to be obſerved by them on all occa<g ref="char:EOLhyphen"/>ſions; and for thoſe that do not underſtand the true Grounds of <hi>Dancing,</hi> to enable them herein, let them obſerve theſe following RULES.</p>
+               <p>A Youngman, upon ent'ring the Room where his Superiours are, ought with his Hat in his hand or under his arm to make his ap<g ref="char:EOLhyphen"/>proach, and at ſome diſtance, ſetting one leg a little before the other, bend his Body with<g ref="char:EOLhyphen"/>out moving his Feet, then advancing three ſteps do the like, waving or turning his head in bending that he may ſeem to pa his Re<g ref="char:EOLhyphen"/>ſpects to more then one that's in the place then advancing to the Party to whom he in<g ref="char:EOLhyphen"/>tends to ſpeak, upon a third Congie, looking ſteadfaſtly, he may expreſs himſelf as the oc<g ref="char:EOLhyphen"/>caſion requires: If only in a Complement to a Man thus, <hi>Viz. Honoured Sir, thus low I bend to kiſs your hand, and return you many thanks for permitting ſo great a Favour to him who is yours to ſerve you in
+<pb facs="tcp:191850:3"/>what he may; (or thus,) Sir I am extream<g ref="char:EOLhyphen"/>ly happy in having this opportunity to pay my Reſpects to a Perſon of your Worth: and return you thanks for the many Obligations you have laid upon me.</hi> Or the like, as the Quality, Place and Occaſion does require; and ſo to proceed to other diſcourſe. Stand ſtill with your Hat under your arm, or re<g ref="char:EOLhyphen"/>tire in the manner you advance. If it be to a Gentlewoman obſerve the ſame Rule diffe<g ref="char:EOLhyphen"/>ing only in your Expreſſion and offer a mo<g ref="char:EOLhyphen"/>deſt Salute, if you may do it without offend<g ref="char:EOLhyphen"/>ing, and that muſt be on the right Cheek for in ſuch Caſes to kiſs the mouth that's too vulgar, your Expreſſions may be theſe or ſuch like:</p>
+               <p>
+                  <hi>Madam, I am the admirer of your Vertues, and therefore thus humbly intrude to tender you my Service; Fair Miſtreſs, pardon my boldneſs that I thus approach, your Vertues and Beauty attracted me to beg the favour of being numbred amongst your admirers;</hi> or ſo forth: for in this Caſe there can be no certain Expreſſions ſet down, the Cauſes of the Addreſſes being ſo various.</p>
+               <p>If a young Gentlewoman approach her Superiours, ſhe muſt approach by Curtzying, bending her Body a little forward and then drawing it backward her Head being kept
+<pb facs="tcp:191850:4"/>upright and her hands placed decently be<g ref="char:EOLhyphen"/>fore her and by three Curtzies make her ap<g ref="char:EOLhyphen"/>proach ſtooping a ſmall time at each, caſting her Eyes ſomewhat downward, which will ſet her off with a modeſt Grace, and if it be to Men ſhe approach; let her not ſpeak firſt, unleſs ſhe have ſome Meſſage to deliver or ſome Requeſt to ask; which when ſhe has done, let her ſtand or retire in the ſame man<g ref="char:EOLhyphen"/>ner, unleſs ſhe be deſired to ſit, but if to Wo<g ref="char:EOLhyphen"/>men ſhe may paſs a Compleinent as the oc<g ref="char:EOLhyphen"/>caſions requires.</p>
+               <p>As for our Equals we muſt uſe them with all the obliging Terms of modeſty and Civi<g ref="char:EOLhyphen"/>lity as not to put our ſelves before, nor do any thing, whereby they may ſuppoſe them<g ref="char:EOLhyphen"/>ſelves wronged or affronted: and uſe to<g ref="char:EOLhyphen"/>wards them ſuch obliging Offices of Kindneſs that by your Humility, you may gain a good Eſteem: be not in this Caſe too Familiar nor too reſerved, but in all Caſes hold a <hi>medium</hi> or middle.</p>
+               <p>To Inferiours by Charitable and Reſpect<g ref="char:EOLhyphen"/>ful, flying Pride or Contempt by all means doing them all the good Offices you can; both upon your own account and by inter<g ref="char:EOLhyphen"/>ceeding on their behalf with others, in whoſe power it lies, and in ſo doing you will gain a good repute.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb facs="tcp:191850:4"/>
+               <head>
+                  <hi>CHAP. II.</hi> Directions for Behaviour, and the management of Diſcourſe, and at the Table before their Parents or Strangers, <hi>&amp;c.</hi>
+               </head>
+               <p>LET a Youngman or Maid, in his or her Diſcourſe, be ſparing; eſpecially the latter, leaſt by over-laviſhneſs or ſpeaking un<g ref="char:EOLhyphen"/>ſeaſonably, they be counted impertinent and troubleſome to thoſe to whom they direct it, and in any wiſe be cautious how they extol themſelves and their Abilities, but ever leave that to ſome other: Let them not be effected with their own diſcourſe or laugh at a Story they tell themſelves if they can avoid it, nor be ſeen upon any occaſion to be given to un<g ref="char:EOLhyphen"/>ſeemly or overmuch laughter.</p>
+               <p>Above all, let them be reſpectful to their Parents, and when they come to the Table ſeat themſelves laſt in a place ſutable to their degree, not contending therein, nor ſeeming diſſatisfied, though they ſit below their infe<g ref="char:EOLhyphen"/>riours. And if they Carve, ſerve themſelves laſt; but if Carved to by others, reſt ſatisfied with what is dealt 'em; and if at any time they find a convenient Opportunity to begin a Diſcourſe, let it be about innocent matters and ſuch as by Reflection or otherwiſe, will give no offence to the Company.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb facs="tcp:191850:5"/>
+               <head>
+                  <hi>CHAP. III.</hi> Directions for making Love, and how to know whether one is beloved, and to obtain the Par<g ref="char:EOLhyphen"/>ty deſired, <hi>&amp;c.</hi>
+               </head>
+               <p>IN Caſe of Love, our Youth after he has fixed his mind upon the Virgin he can fan<g ref="char:EOLhyphen"/>cy, muſt, e're he lets her know his Paſſion or that lets it take too deep Root, find by obſer<g ref="char:EOLhyphen"/>ving or diſcourſing her, whether her Heart be not inclined another, way too much to be re<g ref="char:EOLhyphen"/>called, leaſt in ſuch a Caſe he deſtroy his own Quiet, and this may be done by obſerving the motion of her Eyes, for if your Miſtriſs when you diſcourſe with her, look downward or careleſly caſt her eyes another way, ſeem<g ref="char:EOLhyphen"/>ing reſtleſs and uneaſie, yet now and than caſt forth a ſigh unwittingly, her heart and mind is at that time ſomewhere elſe, and ſhe is as deep in Love with ſome other, as your ſelf is or may be with her: or if ſhe ſeem careleſs and reſerved, putting of your paſſion Story with ſome other Diſcourſe of a Contrary Na<g ref="char:EOLhyphen"/>ture: then is ſhe cold I deſire, and will not ſoon take <hi>Cupids</hi> fire, yet by ſeaſonable ad<g ref="char:EOLhyphen"/>dreſſing and obliging Courtſhip, may be ſoft<g ref="char:EOLhyphen"/>ned and brought to a Complyance.</p>
+               <p>Again, if you would know when your Mi<g ref="char:EOLhyphen"/>ſtriſs oves you, though ſhe will diſſemble her
+<pb facs="tcp:191850:5"/>paſſion by her Carriage and proteſt the con<g ref="char:EOLhyphen"/>trary with her Tongue: look ſteadfaſt on her and take notice of her Eyes for they ſilently ſpeak the language of the Soul and cannot eaſily diſſemble, if with them ſhe ſteadfaſtly gazes on you; inſomuch that they ſparkle on you by turns and at other times ſeem cloudy, as alſo to ſhut as though dazled or weakned with too much ſteadfaſtneſs or that ſpeaking ſuddenly ſhe ſtammers or miſſes of a ready deliverance of Words, and that her bluſhes come and go, then is ſhe in Love, If upon a parting Salute ſhe meets you with earneſtneſs or ſqueezing your fingers hard, preſently ſnatches off or unlooſes her hand, as if ſhe had injur'd her modeſty, then ſhe is in love with you, and wants but an opportunity to let you know what Intreſts you have in her Affections which if you be any thing of a Courtier, you ought to ſtudy, in order to bring it to paſs.</p>
+               <p>Theſe and many other Symptoms there are in Virgin-Love, yet oberves theſe Rules, never trouble your Miſtreſs with too early or too late Viſits, nor Attempt to ſurprize her undreſſed or in an unſeemly manner, leaſt you undo all you have done but at a ſeaſona<g ref="char:EOLhyphen"/>ble time: To delight her you may tune your Voice; good Singing, being very acceptable
+<pb facs="tcp:191850:6"/>in ſuch Caſes, and for want of a Song, this may well ſerve.</p>
+               <floatingText xml:lang="eng" type="song">
+                  <body>
+                     <lg>
+                        <head>A SONG.</head>
+                        <opener>To the Tune of, <hi>Joy to the Bridegroom.</hi>
+                        </opener>
+                        <l>MY lovely <hi>Caelia</hi> whoſe bright eyes</l>
+                        <l>All hearts at diſtance do ſurprize</l>
+                        <l>O ſmile and ſave your <hi>Strephon</hi> then,</l>
+                        <l>Who without you muſt be undone</l>
+                        <l>
+                           <hi>O ſmile,</hi> &amp;c.</l>
+                     </lg>
+                     <lg>
+                        <l>O Cure your wounded Shepherds Grief</l>
+                        <l>By ſmiling him a quick relief</l>
+                        <l>Be kind as you are fair, and he</l>
+                        <l>Will never doubt's Felicity.</l>
+                        <l>
+                           <hi>Be kind,</hi> &amp;c.</l>
+                     </lg>
+                  </body>
+               </floatingText>
+               <p>As for the Courtſhips of a Widow young or old, briskneſs, a prompt ingenuity, a Face not eaſily to be daſhed out of Countenance, are the beſt proof, nor muſt you be tedious in your Courtſhip; for Widows being ſeaſoned for Love entertain it with leſs fear than Virgins, nor ſtand upon ſuch nice punctilio's; therefore as this firſtmuſt be won by obliging Complements and ſometimes tedious Service, the latter muſt be gained by good humour
+<pb facs="tcp:191850:6"/>and ſeaſonable Careſs, without omitting any opportunity to clap up the Match, and for her diverſion this Song may be apt enough.</p>
+               <floatingText xml:lang="eng" type="song">
+                  <body>
+                     <lg>
+                        <opener>To the Tune of, <hi>the well approved Doctor.</hi>
+                        </opener>
+                        <l>IN faith my dear <hi>Silvia,</hi>
+                        </l>
+                        <l>I tell you I love</l>
+                        <l>Believe me, you'l find</l>
+                        <l>That I conſtant will prove</l>
+                        <l>O doubt not my deareſt</l>
+                        <l>to give me thy hand</l>
+                        <l>Since all that's about me</l>
+                        <l>is at your command.</l>
+                     </lg>
+                  </body>
+               </floatingText>
+               <p>As for quaint Complemental Expreſſions, theſe on fit occaſions may ſerve.</p>
+               <p>Madam, your Eyes enthrall my Heart, and make me your ſlave.</p>
+               <p>Fair Lady, what ſhall I ſay to gain belief that I love you? be witneſs your ſelf and all that is good in you.</p>
+               <p>Madam, I am your Creature and live but by your ſmiles.</p>
+               <p>Beauteous Miſtreſs, pitty a Languiſhing Lover who ſcarcely dares tell his pain leaſt you ſhould frown him death.</p>
+               <p>
+                  <hi>As for a Letter you may frame it thus.</hi>
+               </p>
+               <pb facs="tcp:191850:7"/>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>To his admired Miſtreſs,</salute>
+                     </opener>
+                     <p>FAireſt of Creatures, being made a Priſoner to your beauties and many ſingular ver<g ref="char:EOLhyphen"/>tues, and not having the opportunity, or to ſay rather the boldneſs to tell you it in perſon, I have preſumed to addreſs your fair hands with this Paper, as the Interpreter of the mind; intreating you out of that tender Compaſſion you have ever expreſſed for af<g ref="char:EOLhyphen"/>flicted Mortals, to ſend him a Cordial, though it be but Hope to give ſome eaſe to a fea<g ref="char:EOLhyphen"/>vouriſh Soul, that meditates on you next Heaven, and the Obligation will revive him who is your languiſhing ſlave to wear the ſoft Chains of your Love.</p>
+                     <closer>
+                        <signed>P B.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>
+                  <hi>To which an Anſwer may be thus framed.</hi>
+               </p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>I Received your Letter, the Contents of which, are as ſtrange to me as your ſelf and therefore know not how to return an anſwer to your ſatisfaction, but that I am compaſſionate to thoſe that are in affliction aſſure your ſelf, and ſhould be loath to be the occaſion of your ſuffering, yet till I know fur<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:191850:7"/>muſt remain a friend to my ſelf, and no enemy to you.</p>
+                     <closer>
+                        <signed>A. G.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <lg>
+                  <l>
+                     <hi>THus Love and Courtſhip brought is to an end,</hi>
+                  </l>
+                  <l>
+                     <hi>And now to other things my Pen I bend,</hi>
+                  </l>
+                  <l>
+                     <hi>Which may as uſeful prove, if not exceed</hi>
+                  </l>
+                  <l>
+                     <hi>Then to be ſatisfied, good Reader Read.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="4" type="chapter">
+               <head>
+                  <hi>CHAP. IV.</hi> Rules and Directions for Carving Fiſh or Fleſh, after the Courtly manner: as alſo what relates to Fiſh, and the choiceſt part of either, <hi>&amp;c.</hi>
+               </head>
+               <p>SInce the managing of a Feaſt, is in many caſes, as difficult as Marſhalling of Ar<g ref="char:EOLhyphen"/>mies; I have thought fit to give a brief Ac<g ref="char:EOLhyphen"/>count of it: as alſo of carving, and of the beſt pieces, in caſe of difference of Perſons in Reſpect and Quality: which, take as fol<g ref="char:EOLhyphen"/>loweth.</p>
+               <p>As for the Fleſh, Fiſh, Fowl, <hi>&amp;c.</hi> They are to be obſerved, as they are in ſeaſon, in the firſt and ſecond Courſe, each month amongſt the Curious, differing in that particular;
+<pb facs="tcp:191850:8"/>wherefore ſuppoſing all things plentiful o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Board, and in good order ſerved with their particular Sawces, a thing too long to be inſerted; I proceed to give directions ſo Carving, a thing wonderfull neceſſary and commendable, and though in Butchers Mea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> there is no Maſter-piece required in Carving yet obſerve to cut a Loin of Veal in the mid<g ref="char:EOLhyphen"/>dle and give the Nut-piece to thoſe you moſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> eſteem.</p>
+               <p>In boiled or roaſted Beef, the part interli<g ref="char:EOLhyphen"/>ned or interlarded with Fat, is moſt accepta<g ref="char:EOLhyphen"/>ble.</p>
+               <p>In a Leg of Mutton, thruſt your Knife a conſiderable depth, and begin to cut it from the handle on the inſide as if you were about to ſplit it in the Joynt, and on the other ſide there is a little bone, which, preſent as the choiceſt piece.</p>
+               <p>A Leg of Pork ought to be cut Round, on the top: and in like manner, a Haunch of Veniſon.</p>
+               <p>A Sholder of Mutton, muſt be cut Semi<g ref="char:EOLhyphen"/>circle, between the Handle and the Flap, or on the inſide; as for a Rabbit or Hare: the legs and Wings muſt be firſt taken off, and then cut in two, the back-piece preſented as the beſt: A Pig muſt be chin'd and plac'd upon the Sawce, the beſt part of which is reckoned the Ear or under Jaw.</p>
+               <pb facs="tcp:191850:8"/>
+               <p>As for Fiſh, there is no certain directions becauſe they need little Carving; only in <hi>Salmon, Sturgeon, Pike, Carp</hi> and <hi>Codfiſh,</hi> the head and that part next it, is moſt approved: wherefore paſſing them over, I ſhall come to Fowl, the moſt curious part of Carving.</p>
+               <p>The Carving Term of a Swan is Lifting; wherefore if you lift a Swan, ſlit her right down the middle of the breaſt, and ſo through the back from the Neck to the Rump lay the ſlit ſide downwards, and ſet forth your Sawce in Sawcers apart.</p>
+               <p>To cut up a roaſted Gooſe; rear her and cut fair the Legs, then Belly-piece round, and lace the Breaſt with your knife, a thumbs breadth from the Breaſt-bone; and in that manner take off the Wings, raiſing them cle<g ref="char:EOLhyphen"/>verly from the Bone, and then proceed to take off the Merry thought; when having cut off the Breaſt-bone, turn the Carkaſs up and ſplit it on the Back-bone, take off the Rump and lay them in order.</p>
+               <p>To cut up a Turky or Buſtard, raiſe the Legs very fair, opening the Joynt with the point of your Knife, yet take not off the Leg, but lace down the Breaſt on both ſides and open the Wings or Pinions, but take them not off; then raiſe up the Merry thought and lace down the fleſh on both ſides the Breaſt-bone, and raiſe up the fleſh called the
+<pb facs="tcp:191850:9"/>Brawn turn it out on both ſides, but neither break it nor cut it off; then cut off the Wing pinion at the Johnt next the Body, and ſtick on each ſide the Pinion or Wing, in the place you turned out the Brawn, but cut off the Sharp ends and take the middle-piece that will juſt fit the place: and thus you muſt uſe a Capon, only laying the Gizzard divided in the place where the Pinions of the Turkey were ordered to be put.</p>
+               <p>In diſmembring a Heron, you muſt take off both the Legs and lace it down the Breaſt raiſing up the fleſh, and taking it off clean with the Pinion, then ſtick the head on the breaſt and lay the Pinion, on the contrary ſide of the Carkaſs, and the Leg on the other ſide, ſo that the bones ends may meet over the Carkaſs, and the other Wing croſs over about the top of the Carkaſs.</p>
+               <p>To unbrace a Mallard, raiſe up the Pinion and the leg, but take them not off, raiſe the Merry thought from the Breaſt and lace it down ſlaopingly on each ſide the Breaſt and turn the back downwards.</p>
+               <p>In alaying a Pheaſant or wrining a Partridge cut them up as a Hen or Pullet, but if you mince your Partridge, Sawce it with Wine Powder of Ginger and Salt and keep it not on a Chaſing-diſh of Coles in the like manner, uſe a Quail.</p>
+               <pb facs="tcp:191850:9"/>
+               <p>To diſplay a Crane take off his Wings af<g ref="char:EOLhyphen"/>ter you have unfolded his Legs, which muſt be done by the body Joynts: then take up his Wings and Legs and ſawce them with pow<g ref="char:EOLhyphen"/>der of Ginger, Muſtard, Vinegar and Salt.</p>
+               <p>
+                  <hi>And thus have I ſhewn you the difficulty of Car<g ref="char:EOLhyphen"/>ving ſuch Fleſh and Fowl as requires; as for what remains of leſſer moment I leave to your Diſcretion and proceed to other Curioſities.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="part">
+            <head>
+               <hi>A TREATISE Of MOLES; OR,</hi> An account of their ſignification on the Bodies of Men or Women, relating to good or bd Fortune.</head>
+            <list>
+               <item>A Mole on the right ſide the Forehead, near the Eye-brow, ſignifies the Per<g ref="char:EOLhyphen"/>ſon wiſe and fortunate.</item>
+               <item>A Mole on the left ſide the Forehead near to the middle, betokens Riches, though obtain'd with difficulty.</item>
+               <item>A Mole on the middle of the Forehead betokens ſound Judgment and good Con<g ref="char:EOLhyphen"/>duct in Affairs.</item>
+               <pb facs="tcp:191850:10"/>
+               <item>A Mole on the Eye-lid, betokens a quick ſight and vivacity.</item>
+               <item>A Mole on the Noſe, betokens the Party much given to Venery or the deſire of enjoy<g ref="char:EOLhyphen"/>ment.</item>
+               <item>A Mole on the right Cheek, betokens hap<g ref="char:EOLhyphen"/>pineſts in Marriage.</item>
+               <item>A Mole on the left, the contrary.</item>
+               <item>A Mole on the upper lip, betokens the Party to be greatly beloved.</item>
+               <item>A Mole on the under lip, betokens Riches by Marriage or the Death of Friends.</item>
+               <item>A Mole on the Chin, betokens many Chil<g ref="char:EOLhyphen"/>dren and proſperous days.</item>
+               <item>A Mole on the Right breaſt, betokens ſud<g ref="char:EOLhyphen"/>den advancement.</item>
+               <item>A Mole on the Left breaſt, ſignifies the Party not deſirous of Marriage.</item>
+               <item>A Mole near the Navel of a Woman, ſig<g ref="char:EOLhyphen"/>nifies Fruitfulneſs.</item>
+               <item>A Mole on the right Thigh, ſignifies Ho<g ref="char:EOLhyphen"/>nour; on the left, pain and diſgrace.</item>
+               <item>A Mole on the right Foot, ſignifies a Man ſhall gain much by Travel.</item>
+               <item>A Mole on the left Foot, ſignifies the con<g ref="char:EOLhyphen"/>trary.</item>
+               <item>A Mole on the right Hip of a Woman, ſig<g ref="char:EOLhyphen"/>nfies eaſie Labour; and on the left, danger in Child-bearing.</item>
+            </list>
+         </div>
+         <div type="part">
+            <pb facs="tcp:191850:10"/>
+            <head>
+               <hi>OF DREAMS,</hi> AND THEIR <hi>INTERPRETATIONS;</hi> As they ſignifie good or Evil to the Party.</head>
+            <list>
+               <item>TO Dream ones Friends are dead, ſignifies they are well.</item>
+               <item>To Dream of a Coffin and that one is put into it alive, ſignifies Marriage.</item>
+               <item>To Dream of a Rings being put on ones finger, ſignifies a loſs of Suiters or the break<g ref="char:EOLhyphen"/>ing of a match, eſpecially if the Ring ſeem to vaniſh.</item>
+               <item>To dream one rides on Horſeback ſigni<g ref="char:EOLhyphen"/>fies promotion.</item>
+               <item>To dream of flying in the air ſignifies haſ<g ref="char:EOLhyphen"/>ty news.</item>
+               <item>To dream of Eggs ſignifies Riches.</item>
+               <item>To dream of telling ſmall pieces of Silver or finding them, ſignifies want.</item>
+               <item>To dream you met great Perſons, and they kindly ſalute you, ſignifies ſuddain ad<g ref="char:EOLhyphen"/>vancement.</item>
+               <item>To dream one ſees the Sun Riſing, ſigni<g ref="char:EOLhyphen"/>fies, approaching proſperity.</item>
+               <pb facs="tcp:191850:11" rendition="simple:additions"/>
+               <item>To Dream of fire, ſignifies Anger.</item>
+               <item>To Dream of ſtrange Monſters, ſignifies travelling into diſtant Countries.</item>
+               <item>To Dream of furious Beaſts, and that they aſſault one, betokens violence to befal by the procurement of open Enemies.</item>
+               <item>To Dream of Serpents, ſignifies private Enemies or fraudulent Friends.</item>
+               <item>To Dream of Embracing, ſignifies marri<g ref="char:EOLhyphen"/>age or the meeting of Friends.</item>
+               <item>To Dream one ſees a Party unawares, and wonderfully likes, ſignifies the Party ſhall marry a ſtranger.</item>
+               <item>To Dream of dreadful Fights in the Skies, ſignifies Sickneſs.</item>
+               <item>To Dream of a Reconcilement with one, with whom they have been at Variance, ſig<g ref="char:EOLhyphen"/>nifies the return of a Suiter or the renewing of Love with Succeſs.</item>
+            </list>
+         </div>
+         <div type="part">
+            <pb facs="tcp:191850:11"/>
+            <head>
+               <hi>PALMESTRY diſplayed; OR,</hi> Some choice Rules and Directions to know good or bad Fortune, by the Lines and Marks of the Hand.</head>
+            <p>THE Party who in the Hand has the Line of Life large and full, has Health and long Life promiſed thereby.</p>
+            <p>To have the Girdle of <hi>Venus</hi> fair, ſignifies a deſire of Marriage, and that the Party ſhall be proſperous.</p>
+            <p>To have the Ball of the Thumb or Mount of <hi>Venus</hi> fair ſignifies Riches and Love.</p>
+            <p>To have a Star between the two middle joynts of the fore-finger or Figure of <hi>Saturn,</hi> ſignifies Riches and Wiſdom. The figure of a G on the little finger or finger of <hi>Mercury,</hi> denotes Inconſtancy.</p>
+            <p>A bloody Line in the hollow of the Hand or plain of <hi>Mars,</hi> denotes the Perſon to be Fortunate in war.</p>
+            <p>The figure of Moon as thus C on the Mount of the Brawn of the Hand, denotes the Party fortunate in Navigation, and by Traffick. Three croſſes on the root of the Thumb, betokens divers Marriages.</p>
+         </div>
+         <div type="songs">
+            <div type="song">
+               <pb facs="tcp:191850:12"/>
+               <head>A pleaſant New Song, Sung before the King at <hi>Newmarket.</hi>
+               </head>
+               <l>To Horſe brave Boys, to <hi>Newmarket</hi> to Horſe</l>
+               <l>You'l looſe the Match by longer delaying,</l>
+               <l>The Gelding juſt now was led over the courſe</l>
+               <l>I think the Devils in ye for ſtaying,</l>
+               <l>Run &amp; endeavour to bubble the Sporters</l>
+               <l>Bets may be recover'd loſt at the Groom-porters</l>
+               <l>Follow, follow, follow, lead down by the Ditch</l>
+               <l>I'le take the Odds, and then youl' be rich</l>
+               <l>For I will have <hi>brown bay</hi> if the <hi>blewbonnet</hi> ride</l>
+               <l>I'le hold a Thouſand pound on his ſide, <hi>SIR,</hi>
+               </l>
+               <l>
+                  <hi>Dragon</hi> could ſcour it, but <hi>Dragon</hi>'s grown old</l>
+               <l>He cannot endure it, he cannot, he will not,</l>
+               <l>Now Run it as lately he could,</l>
+               <l>Age, Age, has hindred his Speed <hi>Sir,</hi>
+               </l>
+               <l>Now, now, now, ſee they come on!</l>
+               <l>See! ſee! the Horſe leads the way, ſtill,</l>
+               <l>Full three lengths before at the turn of the land</l>
+               <l>Five hundred pound upon the <hi>Brow Bay</hi> ſtill</l>
+               <l>But a Pox of the Devio, I fear we have loſt,</l>
+               <l>The Dog the <hi>Blew Bonnet,</hi> has Run it,</l>
+               <l>(A murrain light on it)</l>
+               <l>The wrong ſide of the Poſt,</l>
+               <l>
+                  <hi>Odds Bobs,</hi> was ever ſuch Fortune.</l>
+            </div>
+            <div type="song">
+               <pb facs="tcp:191850:12"/>
+               <head>An Excellent New Song on King <hi>Charles</hi> the II. and King <hi>James.</hi>
+               </head>
+               <opener>To a pleaſant new Tune.</opener>
+               <lg>
+                  <l>Let <hi>Caeſar</hi> live long &amp; his Temper abide,</l>
+                  <l>Who twenty years plentiful ſeaſons has try'd</l>
+                  <l>Let twenty and twenty be counted too few,</l>
+                  <l>Still every ſeaſon conſiſting of new:</l>
+                  <l>Till tyr'd with joys which this world can afford</l>
+                  <l>He retires to be made a more Glorious Lord.</l>
+               </lg>
+               <lg>
+                  <l>Let Royal <hi>Almanſor</hi> great <hi>Caeſar</hi> ſucceed</l>
+                  <l>And <hi>England</hi> from Fctions for ever be freed</l>
+                  <l>Thro' endleſs <hi>ſucceſſions</hi> may his life ever run</l>
+                  <l>By <hi>Sea</hi> &amp; by <hi>Land,</hi> who ſuch wonders has done</l>
+                  <l>May his <hi>Iſſue</hi> increaſe, &amp; theſe <hi>Nations</hi> rule o're</l>
+                  <l>Until Ages laſt period and time be no more.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <opener>A SONG. To the Tune of, <hi>Hail to the Myrtle Shade.</hi>
+               </opener>
+               <l>HAil to my Love that is fair,</l>
+               <l>Hail to the Nymph I adore:</l>
+               <l>Then baniſhed be ſorrow and care</l>
+               <l>They never ſhall trouble me more:</l>
+               <l>Since ſhe I admire does prove kind,</l>
+               <l>and tells me in ſmiles ſhe does love,</l>
+               <l>I'le ſcatter my care in the wind,</l>
+               <l>and as joy ial as any i'le prove.</l>
+            </div>
+            <div type="song">
+               <pb facs="tcp:191850:13"/>
+               <opener>A SONG To the Tune of, <hi>Joy in the Morning.</hi>
+               </opener>
+               <l>LOvely Maid why are you ſad</l>
+               <l>Swains enough are to be had,</l>
+               <l>If he's gone, pray let him go,</l>
+               <l>Come dear Nymph why ſits thou ſo</l>
+               <l>Alas! moſt Men when we purſue,</l>
+               <l>Do ſlight our Charms, and bid adieu;</l>
+               <l>Haſty yielding, ruins Love,</l>
+               <l>You longer ſhould Mens paſſions prove,</l>
+               <l>Ah what glory can he gain,</l>
+               <l>Although he Victor does remain</l>
+               <l>O're a poor and helpleſs Maid,</l>
+               <l>Whom her kindneſs has betray'd.</l>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="illustration">
+            <p>
+               <figure>
+                  <figDesc>gentleman and lady holding hands</figDesc>
+               </figure>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
